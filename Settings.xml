@@ -1,0 +1,29 @@
+﻿<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Port>23552</Port>
+	<MaxPlayers>25</MaxPlayers>
+	<MaxLatency>500</MaxLatency>
+	<Name>Naan Thaan Da Leo Das</Name>
+	<Website>https://ragecoop.com/</Website>
+	<Description>Naan Thaan Da LeoDas</Description>
+	<GameMode>God mode</GameMode>
+	<Language>English</Language>
+	<WelcomeMessage>Wellcome to LeoDas Server.
+    To message or command press 'T' in keyboard.
+    To register type' /register username password '
+    Already had an account type ' /login username password '</WelcomeMessage>
+	<AnnounceSelf>true</AnnounceSelf>
+	<MasterServer>https://masterserver.ragecoop.com/</MasterServer>
+	<LogLevel>0</LogLevel>
+	<NpcStreamingDistance>500</NpcStreamingDistance>
+	<PlayerStreamingDistance>-1</PlayerStreamingDistance>
+	<WeatherTimeSync>true</WeatherTimeSync>
+	<AllowedUsernameChars>ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890-_</AllowedUsernameChars>
+	<UseP2P>false</UseP2P>
+	<UseZeroTier>false</UseZeroTier>
+	<UseVoice>true</UseVoice>
+	<ZeroTierNetworkID>8056c2e21c000001</ZeroTierNetworkID>
+	<AutoUpdate>false</AutoUpdate>
+	<KickGodMode>false</KickGodMode>
+	<KickSpamming>true</KickSpamming>
+	<SpamLimit>200</SpamLimit>
+</Settings>
